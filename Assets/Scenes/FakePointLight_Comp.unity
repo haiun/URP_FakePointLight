@@ -510,7 +510,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 7a80c9c01ad48b24e8032b7b215f0051, type: 2}
+  - {fileID: 2100000, guid: 78d1663fa36c78c43921cdf165727b08, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -829,7 +829,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &1067545925
 Transform:
   m_ObjectHideFlags: 0
@@ -859,6 +859,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   rotationAxis: {x: 1, y: 0, z: 0}
+  rotationSpeed: 30
 --- !u!1 &1532234943
 GameObject:
   m_ObjectHideFlags: 0
@@ -1165,6 +1166,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   rotationAxis: {x: 1, y: 1, z: 0}
+  rotationSpeed: 30
 --- !u!65 &1604263938
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -1361,6 +1363,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   rotationAxis: {x: 1, y: 1, z: 0}
+  rotationSpeed: 30
 --- !u!1 &1879887489
 GameObject:
   m_ObjectHideFlags: 0
