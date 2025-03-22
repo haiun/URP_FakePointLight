@@ -124,7 +124,7 @@ Material:
     - _GlossMapScale: 0
     - _Glossiness: 0
     - _GlossyReflections: 0
-    - _Intencity: 4
+    - _Intencity: 2
     - _LightFlag: 2
     - _LightStep: 0.5
     - _Metallic: 0
@@ -147,7 +147,7 @@ Material:
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-    - _LightColor: {r: 0.3280971, g: 0.95283014, b: 0.8744323, a: 1}
+    - _LightColor: {r: 0.32809708, g: 0.95283014, b: 0.8744323, a: 0.80784315}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
