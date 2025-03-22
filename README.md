@@ -48,8 +48,8 @@ ScreenDepth, ScreenNormal에 대한 정보가 있다면, 포워드 및 포워드
 
 <img src="https://github.com/haiun/URP_FakePointLight/blob/main/ReadmeImage/K-009.png?raw=true"/>
 
-볼록한 모양의 메쉬를 RenderFace를 Back으로 설정하고, DepthTest를 GEqual로 설정하여 렌더링하 효과를 구현할 경우 화면 전체를 연산영역을 줄일 수 있습니다.<br>
-그리고, Transform의 LightRange가 연동되면서 일반 광원에 비해 비교적 연출 작업이 용이합니다.<br>
+볼록한 모양의 메쉬를 RenderFace를 Back으로 설정하고, DepthTest를 GEqual로 설정하여 렌더링 효과를 구현할 경우, 화면의 일부 영역만 연산하여 효율성을 높일 수 있습니다.<br>
+그리고, Transform의 LightRange가 연동됨으로써 일반 광원에 비해 연출 작업이 비교적 용이합니다.<br>
 
 <br>
 <br>
