@@ -38,7 +38,7 @@ Renderer Feature에 대해 조사하던 중 PostEffect를 간편하게 구현 �
 <img src="https://github.com/haiun/URP_FakePointLight/blob/main/ReadmeImage/K-007.png?raw=true"/>
 
 
-사용중인 FullScreenPassRenderFeature가 있다면 해당옵션을 추가하면되고, 없다면 이 프로젝트에 포함되어있는 RequireDepthNormalPrepassRendererFeather를 UniversalRendererData 추가하면 DepthNormalPrepass가 활성화 됩니다.
+사용중인 FullScreenPassRenderFeature가 있다면 해당옵션을 추가하면되고, 없다면 이 프로젝트에 포함되어있는 RequireDepthNormalPrepassRendererFeather를 UniversalRendererData 추가하면 DepthNormalPrepass가 활성화 됩니다.<br>
 ScreenDepth, ScreenNormal에 대한 정보가 있다면, 포워드, 포워드+파이프라인에서도 디퍼드 라이팅연산을 구현할 수 있습니다.<br>
 
 <br>
