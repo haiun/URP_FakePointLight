@@ -20,7 +20,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: PostToonPointLight
+  m_Name: FakeToonPointLight
   m_Shader: {fileID: -6465566751694194690, guid: e62513ebf6c88d94a898a51414947fec, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
