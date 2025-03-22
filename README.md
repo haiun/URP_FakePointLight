@@ -73,4 +73,11 @@ ScreenDepth, ScreenNormal에 대한 정보가 있다면, 포워드, 포워드+�
 <img src="https://github.com/haiun/URP_FakePointLight/blob/main/ReadmeImage/FrierenEp9.gif?raw=true"/>
 <img src="https://github.com/haiun/URP_FakePointLight/blob/main/ReadmeImage/K-008.png?raw=true"/>
 
+<br>
+<br>
+리소스를 이쁘게 만드는 실력은 없지만, 비슷한 느낌이 나도록 배치해보았습니다.<br>
 
+
+<img src="https://github.com/haiun/URP_FakePointLight/blob/main/ReadmeImage/resultex1.gif?raw=true"/>
+<img src="https://github.com/haiun/URP_FakePointLight/blob/main/ReadmeImage/resultex2.gif?raw=true"/>
+<img src="https://github.com/haiun/URP_FakePointLight/blob/main/ReadmeImage/resultex3.gif?raw=true"/>
