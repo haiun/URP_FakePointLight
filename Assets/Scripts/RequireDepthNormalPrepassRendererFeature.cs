@@ -2,7 +2,7 @@ using UnityEngine;
 using UnityEngine.Rendering;
 using UnityEngine.Rendering.Universal;
 
-public class RequireDepthNormalPrepassRendererFeather : ScriptableRendererFeature
+public class RequireDepthNormalPrepassRendererFeature : ScriptableRendererFeature
 {
     public ScriptableRenderPassInput requirements = ScriptableRenderPassInput.None;
 
