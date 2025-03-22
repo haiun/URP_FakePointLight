@@ -5,7 +5,7 @@
 
 이 프로젝트는 Unity엔진에서 3D NPR(Non-Photo Realistic)렌더링 시 활용 할 수 있는 유사광원효과에 대해 안내합니다.<br>
 
-섬광, 폭발, 머즐이펙트의 표현에 적합하다고 생각합니다.<br>
+이 유사광원효과는 섬광, 폭발, 머즐이펙트의 표현에 적합하다고 생각합니다.<br>
 
 * 주요 리소스 경로
   * 확인용 씬 : Assets/FakePointLight_Comp.unity
