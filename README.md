@@ -75,7 +75,7 @@ ScreenDepth와 ScreenNormal에 대한 정보가 있다면, 포워드 및 포워�
 
 <br>
 <br>
-위 연출과 비슷한 느낌을 주기 위해 배치해 보았습니다.<br>
+위의 연출과 유사한 느낌을 주기 위해 셀 셰이딩용 라이트를 응용하여 배치해 보았습니다.<br>
 
 
 <img src="https://github.com/haiun/URP_FakePointLight/blob/main/ReadmeImage/resultex1.gif?raw=true"/>
