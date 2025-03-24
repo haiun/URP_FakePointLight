@@ -4,7 +4,7 @@
 <img src="https://github.com/haiun/URP_FakePointLight/blob/main/ReadmeImage/K-003.png?raw=true"/>
 
 이 프로젝트는 Unity 엔진에서 3D NPR(Non-Photo Realistic) 렌더링 시 활용할 수 있는 유사 광원 효과에 대해 안내합니다.<br>
-이 유사 광원 효과는 섬광, 폭발, 머즐 이펙트 등에서 광원 표현에 적합하다고 생각합니다.<br>
+이 유사 광원 효과는 섬광, 폭발, 머즐 이펙트(총구나 포신에서 발포시 발생하는 광원) 등에서 광원 표현에 적합하다고 생각합니다.<br>
 
 * 주요 리소스 경로
   * 확인용 씬 : Assets/FakePointLight_Comp.unity
@@ -21,6 +21,7 @@ URP 기본 셰이더나 에셋스토어에서 구입한 에셋을 혼용하면, 
 
 <img src="https://github.com/haiun/URP_FakePointLight/blob/main/ReadmeImage/K-005.png?raw=true"/>
 
+<br>
 이때, 추가 광원으로 연출을 시도 한다면 조정해둔 벨런스가 망가지면 추가적인 조정이 필요할 수 있습니다.<br>
 
 <img src="https://github.com/haiun/URP_FakePointLight/blob/main/ReadmeImage/K-001.png?raw=true"/>
@@ -74,7 +75,7 @@ ScreenDepth와 ScreenNormal에 대한 정보가 있다면, 포워드 및 포워�
 
 <br>
 <br>
-위 연출과 비슷한 느낌을 주기 위해 배치해 보았습니다.<br>
+위의 연출과 유사한 느낌을 주기 위해 셀 셰이딩용 라이트를 응용하여 배치해 보았습니다.<br>
 
 
 <img src="https://github.com/haiun/URP_FakePointLight/blob/main/ReadmeImage/resultex1.gif?raw=true"/>
