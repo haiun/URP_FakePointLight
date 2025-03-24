@@ -21,6 +21,7 @@ URP 기본 셰이더나 에셋스토어에서 구입한 에셋을 혼용하면, 
 
 <img src="https://github.com/haiun/URP_FakePointLight/blob/main/ReadmeImage/K-005.png?raw=true"/>
 
+<br>
 이때, 추가 광원으로 연출을 시도 한다면 조정해둔 벨런스가 망가지면 추가적인 조정이 필요할 수 있습니다.<br>
 
 <img src="https://github.com/haiun/URP_FakePointLight/blob/main/ReadmeImage/K-001.png?raw=true"/>
