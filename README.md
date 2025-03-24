@@ -68,6 +68,7 @@ ScreenDepth와 ScreenNormal에 대한 정보가 있다면, 포워드 및 포워�
 애니메이션에서 표현되는 강력한 광원은 빛이 닿는 각도와 거리 기준으로 최대 밝기로 표현되며, 블룸 효과와 결합되어 강력함을 강조하는 연출을 쉽게 볼 수 있습니다.<br>
 
 <img src="https://github.com/haiun/URP_FakePointLight/blob/main/ReadmeImage/GurrenLagannEp1.gif?raw=true"/>
+<img src="https://github.com/haiun/URP_FakePointLight/blob/main/ReadmeImage/Frieren.gif?raw=true"/>
 <img src="https://raw.githubusercontent.com/haiun/URP_FakePointLight/refs/heads/main/ReadmeImage/eva_railgun.webp"/>
 <img src="https://github.com/haiun/URP_FakePointLight/blob/main/ReadmeImage/simon.png?raw=true"/>
 <img src="https://github.com/haiun/URP_FakePointLight/blob/main/ReadmeImage/FrierenEp9.gif?raw=true"/>
