@@ -4,7 +4,7 @@
 <img src="https://github.com/haiun/URP_FakePointLight/blob/main/ReadmeImage/K-003.png?raw=true"/>
 
 이 프로젝트는 Unity 엔진에서 3D NPR(Non-Photo Realistic) 렌더링 시 활용할 수 있는 유사 광원 효과에 대해 안내합니다.<br>
-이 유사 광원 효과는 섬광, 폭발, 머즐 이펙트의 표현에 적합하다고 생각합니다.<br>
+이 유사 광원 효과는 섬광, 폭발, 머즐 이펙트 등에서 광원 표현에 적합하다고 생각합니다.<br>
 
 * 주요 리소스 경로
   * 확인용 씬 : Assets/FakePointLight_Comp.unity
