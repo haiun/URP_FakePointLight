@@ -82,3 +82,4 @@ ScreenDepth와 ScreenNormal에 대한 정보가 있다면, 포워드 및 포워�
 <img src="https://github.com/haiun/URP_FakePointLight/blob/main/ReadmeImage/resultex3.gif?raw=true"/>
 <img src="https://github.com/haiun/URP_FakePointLight/blob/main/ReadmeImage/resultex4.gif?raw=true"/>
 <img src="https://github.com/haiun/URP_FakePointLight/blob/main/ReadmeImage/resultex5.gif?raw=true"/>
+<img src="https://github.com/haiun/URP_FakePointLight/blob/main/ReadmeImage/resultex6.gif?raw=true"/>
